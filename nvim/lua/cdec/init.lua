@@ -1,2 +1,2 @@
 require("cdec.remap")
-print("hello from cdec")
+require("cdec.set")
